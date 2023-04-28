@@ -1,0 +1,12 @@
+References:
+
+GeeksforGeeks | https://www.geeksforgeeks.org/normalizing-textual-data-with-python/ | Helped in understanding Text Normalization
+machinelearningmastery | https://machinelearningmastery.com/clustering-algorithms-with-python/#:~:text=Cluster%20analysis%2C%20or%20clustering%2C%20is,or%20clusters%20in%20feature%20space. | Helped in understanding various Clustering algorithms
+Avinash Reddy Nuthalapati | avi.n-54@ou.edu | Helped in understanding cosine similarity for two arrays
+Analytics Vidhya | https://www.analyticsvidhya.com/blog/2021/08/how-knn-uses-distance-measures/ | Helped in understanding distance calculation
+Scilit-Learn | https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html | Helped in understanding svm.SVC model and its implementation
+GeeksforGeeks | https://www.geeksforgeeks.org/how-to-calculate-cosine-similarity-in-python/ | Helped in understanding cosine similarity on two given arrays
+DataCamp | https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python | Helped in understanding various kernel paraneters in svm, svc
+Youtube | https://www.youtube.com/watch?v=WXXHPiX5LoQ | Helped in Understanding Boston House price prediction 
+Stack Overflow | https://stackoverflow.com/questions/47898326/how-vectorizer-fit-transform-work-in-sklearn | Helped in understanding fit and transform functions and their usage
+GeeksforGeeks | https://www.geeksforgeeks.org/creating-linear-kernel-svm-in-python/ | Helped in understanding linear kernel in svm

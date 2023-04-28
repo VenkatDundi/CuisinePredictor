@@ -1,0 +1,663 @@
+[
+  {
+    "id": 10259,
+    "cuisine": "greek",
+    "ingredients": [
+      "romaine lettuce",
+      "black olives",
+      "grape tomatoes",
+      "garlic",
+      "pepper",
+      "purple onion",
+      "seasoning",
+      "garbanzo beans",
+      "feta cheese crumbles"
+    ]
+  },
+  {
+    "id": 25693,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "plain flour",
+      "ground pepper",
+      "salt",
+      "tomatoes",
+      "ground black pepper",
+      "thyme",
+      "eggs",
+      "green tomatoes",
+      "yellow corn meal",
+      "milk",
+      "vegetable oil"
+    ]
+  },
+  {
+    "id": 20130,
+    "cuisine": "filipino",
+    "ingredients": [
+      "eggs",
+      "pepper",
+      "salt",
+      "mayonaise",
+      "cooking oil",
+      "green chilies",
+      "grilled chicken breasts",
+      "garlic powder",
+      "yellow onion",
+      "soy sauce",
+      "butter",
+      "chicken livers"
+    ]
+  },
+  {
+    "id": 22213,
+    "cuisine": "indian",
+    "ingredients": [
+      "water",
+      "vegetable oil",
+      "wheat",
+      "salt"
+    ]
+  },
+  {
+    "id": 13162,
+    "cuisine": "indian",
+    "ingredients": [
+      "black pepper",
+      "shallots",
+      "cornflour",
+      "cayenne pepper",
+      "onions",
+      "garlic paste",
+      "milk",
+      "butter",
+      "salt",
+      "lemon juice",
+      "water",
+      "chili powder",
+      "passata",
+      "oil",
+      "ground cumin",
+      "boneless chicken skinless thigh",
+      "garam masala",
+      "double cream",
+      "natural yogurt",
+      "bay leaf"
+    ]
+  },
+  {
+    "id": 49136,
+    "cuisine": "italian",
+    "ingredients": [
+      "marinara sauce",
+      "flat leaf parsley",
+      "olive oil",
+      "linguine",
+      "capers",
+      "crushed red pepper flakes",
+      "olives",
+      "lemon zest",
+      "garlic"
+    ]
+  },
+  {
+    "id": 26705,
+    "cuisine": "chinese",
+    "ingredients": [
+      "sugar",
+      "lo mein noodles",
+      "salt",
+      "chicken broth",
+      "light soy sauce",
+      "flank steak",
+      "beansprouts",
+      "dried black mushrooms",
+      "pepper",
+      "chives",
+      "oyster sauce",
+      "dark soy sauce",
+      "peanuts",
+      "sesame oil",
+      "cabbage"
+    ]
+  },
+  {
+    "id": 27976,
+    "cuisine": "cajun_creole",
+    "ingredients": [
+      "herbs",
+      "lemon juice",
+      "fresh tomatoes",
+      "paprika",
+      "mango",
+      "stock",
+      "chile pepper",
+      "onions",
+      "red chili peppers",
+      "oil"
+    ]
+  },
+  {
+    "id": 22087,
+    "cuisine": "italian",
+    "ingredients": [
+      "ground black pepper",
+      "butter",
+      "sliced mushrooms",
+      "sherry",
+      "salt",
+      "grated parmesan cheese",
+      "heavy cream",
+      "spaghetti",
+      "chicken broth",
+      "cooked chicken",
+      "all-purpose flour"
+    ]
+  },
+  {
+    "id": 9197,
+    "cuisine": "chinese",
+    "ingredients": [
+      "green bell pepper",
+      "egg roll wrappers",
+      "sweet and sour sauce",
+      "corn starch",
+      "molasses",
+      "vegetable oil",
+      "oil",
+      "soy sauce",
+      "shredded cabbage",
+      "garlic",
+      "onions",
+      "fresh ginger root",
+      "ground pork",
+      "carrots"
+    ]
+  },
+  {
+    "id": 1299,
+    "cuisine": "mexican",
+    "ingredients": [
+      "flour tortillas",
+      "cheese",
+      "breakfast sausages",
+      "large eggs"
+    ]
+  },
+  {
+    "id": 40429,
+    "cuisine": "italian",
+    "ingredients": [
+      "yellow corn meal",
+      "boiling water",
+      "butter",
+      "fresh parmesan cheese",
+      "sea salt"
+    ]
+  },
+  {
+    "id": 34419,
+    "cuisine": "cajun_creole",
+    "ingredients": [
+      "chicken broth",
+      "chicken breasts",
+      "hot sauce",
+      "red bell pepper",
+      "potatoes",
+      "bacon",
+      "garlic cloves",
+      "fresh parsley",
+      "andouille sausage",
+      "cajun seasoning",
+      "peanut oil",
+      "celery",
+      "ground red pepper",
+      "all-purpose flour",
+      "shrimp",
+      "onions"
+    ]
+  },
+  {
+    "id": 10276,
+    "cuisine": "mexican",
+    "ingredients": [
+      "chili powder",
+      "crushed red pepper flakes",
+      "garlic powder",
+      "sea salt",
+      "ground cumin",
+      "onion powder",
+      "dried oregano",
+      "ground black pepper",
+      "paprika"
+    ]
+  },
+  {
+    "id": 33465,
+    "cuisine": "thai",
+    "ingredients": [
+      "eggs",
+      "shallots",
+      "firm tofu",
+      "beansprouts",
+      "turnips",
+      "palm sugar",
+      "vegetable oil",
+      "garlic cloves",
+      "sliced chicken",
+      "fish sauce",
+      "lime wedges",
+      "roasted peanuts",
+      "green papaya",
+      "chile powder",
+      "ground black pepper",
+      "tamarind paste",
+      "chinese chives"
+    ]
+  },
+  {
+    "id": 39250,
+    "cuisine": "italian",
+    "ingredients": [
+      "olive oil",
+      "onions",
+      "crushed garlic",
+      "dried oregano",
+      "green onions",
+      "white sugar",
+      "dried basil",
+      "diced tomatoes"
+    ]
+  },
+  {
+    "id": 37963,
+    "cuisine": "cajun_creole",
+    "ingredients": [
+      "olive oil",
+      "diced tomatoes",
+      "Johnsonville Andouille Dinner Sausage",
+      "parsley",
+      "shrimp",
+      "jambalaya rice mix",
+      "worcestershire sauce",
+      "hot pepper sauce",
+      "creole seasoning"
+    ]
+  },
+  {
+    "id": 20051,
+    "cuisine": "italian",
+    "ingredients": [
+      "olive oil",
+      "bread slices",
+      "great northern beans",
+      "garlic cloves",
+      "pepper",
+      "shrimp",
+      "sage leaves",
+      "salt"
+    ]
+  },
+  {
+    "id": 11300,
+    "cuisine": "filipino",
+    "ingredients": [
+      "chicken broth",
+      "cooking oil",
+      "chinese five-spice powder",
+      "ground black pepper",
+      "salt",
+      "sugar",
+      "crushed garlic",
+      "chicken thighs",
+      "soy sauce",
+      "star anise"
+    ]
+  },
+  {
+    "id": 17610,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "green onions",
+      "cream cheese",
+      "shredded cheddar cheese",
+      "cayenne pepper",
+      "chili powder",
+      "garlic cloves",
+      "black-eyed peas",
+      "tortilla chips"
+    ]
+  },
+  {
+    "id": 37405,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "collard greens",
+      "extra-virgin olive oil",
+      "ham hock",
+      "chicken stock",
+      "apple cider",
+      "freshly ground pepper",
+      "chile powder",
+      "bay leaves",
+      "salt",
+      "rib",
+      "light brown sugar",
+      "large garlic cloves",
+      "cayenne pepper",
+      "onions"
+    ]
+  },
+  {
+    "id": 28302,
+    "cuisine": "italian",
+    "ingredients": [
+      "Oscar Mayer Deli Fresh Smoked Ham",
+      "hoagie rolls",
+      "salami",
+      "giardiniera",
+      "mozzarella cheese",
+      "pepperoni",
+      "butter",
+      "italian seasoning"
+    ]
+  },
+  {
+    "id": 31634,
+    "cuisine": "brazilian",
+    "ingredients": [
+      "ice cubes",
+      "club soda",
+      "white rum",
+      "lime",
+      "turbinado"
+    ]
+  },
+  {
+    "id": 32304,
+    "cuisine": "mexican",
+    "ingredients": [
+      "cooked chicken",
+      "enchilada sauce",
+      "sliced green onions",
+      "picante sauce",
+      "green pepper",
+      "corn tortillas",
+      "canned black beans",
+      "shredded lettuce",
+      "sour cream",
+      "shredded cheddar cheese",
+      "garlic cloves",
+      "canola oil"
+    ]
+  },
+  {
+    "id": 36341,
+    "cuisine": "indian",
+    "ingredients": [
+      "salmon fillets",
+      "shallots",
+      "cumin seed",
+      "fresh cilantro",
+      "salt",
+      "curry powder",
+      "vegetable oil",
+      "serrano chile",
+      "fresh ginger",
+      "sauce"
+    ]
+  },
+  {
+    "id": 29369,
+    "cuisine": "mexican",
+    "ingredients": [
+      "tomatoes",
+      "chicken breast halves",
+      "chopped cilantro fresh",
+      "white vinegar",
+      "jalapeno chilies",
+      "salt",
+      "black pepper",
+      "vegetable oil",
+      "avocado",
+      "lettuce leaves",
+      "chopped onion"
+    ]
+  },
+  {
+    "id": 27564,
+    "cuisine": "chinese",
+    "ingredients": [
+      "eggs",
+      "mandarin oranges",
+      "water",
+      "orange liqueur",
+      "yellow cake mix",
+      "frosting",
+      "vegetable oil",
+      "white sugar"
+    ]
+  },
+  {
+    "id": 18515,
+    "cuisine": "french",
+    "ingredients": [
+      "sugar",
+      "salt",
+      "fennel bulb",
+      "water",
+      "lemon olive oil",
+      "grapefruit juice"
+    ]
+  },
+  {
+    "id": 3335,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "sugar",
+      "all-purpose flour",
+      "vegetable oil",
+      "white cornmeal",
+      "baking powder",
+      "onions",
+      "bacon drippings",
+      "buttermilk"
+    ]
+  },
+  {
+    "id": 4499,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "butter",
+      "crab boil",
+      "garlic",
+      "old bay seasoning",
+      "cream cheese",
+      "crawfish",
+      "salt"
+    ]
+  },
+  {
+    "id": 4906,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "mayonaise",
+      "white sugar",
+      "ground black pepper",
+      "salt",
+      "white vinegar",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 5767,
+    "cuisine": "japanese",
+    "ingredients": [
+      "sirloin",
+      "mirin",
+      "yellow onion",
+      "low sodium soy sauce",
+      "water",
+      "corn oil",
+      "sugar",
+      "green onions",
+      "glass noodles",
+      "sake",
+      "shiitake",
+      "napa cabbage"
+    ]
+  },
+  {
+    "id": 30748,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "large eggs",
+      "whipping cream",
+      "chicken broth",
+      "ground red pepper",
+      "extra sharp cheddar cheese",
+      "quickcooking grits",
+      "hot sauce",
+      "ground black pepper",
+      "worcestershire sauce",
+      "monterey jack"
+    ]
+  },
+  {
+    "id": 35930,
+    "cuisine": "italian",
+    "ingredients": [
+      "fresh basil",
+      "bay leaves",
+      "crushed red pepper",
+      "mussels",
+      "olive oil",
+      "basil",
+      "garlic cloves",
+      "black pepper",
+      "dry white wine",
+      "salt",
+      "tomatoes",
+      "finely chopped onion",
+      "linguine",
+      "flat leaf parsley"
+    ]
+  },
+  {
+    "id": 44902,
+    "cuisine": "southern_us",
+    "ingredients": [
+      "sugar",
+      "large eggs",
+      "all-purpose flour",
+      "baking soda",
+      "buttermilk",
+      "honey",
+      "corn oil",
+      "yellow corn meal",
+      "unsalted butter",
+      "salt"
+    ]
+  },
+  {
+    "id": 31119,
+    "cuisine": "italian",
+    "ingredients": [
+      "lemon",
+      "pesto",
+      "salmon fillets",
+      "white wine"
+    ]
+  },
+  {
+    "id": 3535,
+    "cuisine": "jamaican",
+    "ingredients": [
+      "bread crumbs",
+      "unsalted butter",
+      "onion powder",
+      "curry",
+      "low sodium beef broth",
+      "pickapeppa sauce",
+      "curry powder",
+      "bay leaves",
+      "garlic",
+      "cayenne pepper",
+      "cold water",
+      "pepper",
+      "large eggs",
+      "extra-virgin olive oil",
+      "yellow onion",
+      "allspice",
+      "white vinegar",
+      "kosher salt",
+      "fresh thyme",
+      "worcestershire sauce",
+      "all-purpose flour",
+      "ground beef"
+    ]
+  },
+  {
+    "id": 47028,
+    "cuisine": "japanese",
+    "ingredients": [
+      "melted butter",
+      "matcha green tea powder",
+      "white sugar",
+      "milk",
+      "all-purpose flour",
+      "eggs",
+      "salt",
+      "baking powder",
+      "chopped walnuts"
+    ]
+  },
+  {
+    "id": 38112,
+    "cuisine": "indian",
+    "ingredients": [
+      "coarse salt",
+      "fenugreek",
+      "urad dal",
+      "potatoes",
+      "white rice",
+      "vegetable oil"
+    ]
+  },
+  {
+    "id": 2646,
+    "cuisine": "italian",
+    "ingredients": [
+      "pizza crust",
+      "plum tomatoes",
+      "pesto",
+      "part-skim mozzarella cheese"
+    ]
+  },
+  {
+    "id": 5206,
+    "cuisine": "irish",
+    "ingredients": [
+      "cooking spray",
+      "salt",
+      "black pepper",
+      "yukon gold potatoes",
+      "low-fat sour cream",
+      "leeks",
+      "olive oil",
+      "1% low-fat milk"
+    ]
+  },
+  {
+    "id": 38233,
+    "cuisine": "thai",
+    "ingredients": [
+      "sugar",
+      "chicken thighs",
+      "cooking oil",
+      "fish sauce",
+      "garlic",
+      "black pepper"
+    ]
+  } 
+]
