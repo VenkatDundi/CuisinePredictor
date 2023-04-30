@@ -236,7 +236,7 @@ As we need to print the result in the json format, consider creating an empty di
         json_format["score"] = round(cusine_score, 5)
         json_format["closest"] = [{"id" : i[0], "score" : round(i[1], 5)} for i in result]
 
-        print(json.dumps(json_format, indent=4)
+        print(json.dumps(json_format, indent=4))
 ```
 
 
@@ -280,7 +280,7 @@ This function helps in validating the implementation of model on data from json 
         assert (res[0] in ingredient_cuisine) and type(score)==float and type(closer)==list and len(closer) > 0
 ```
 
-#### Function - nearest_cusines()
+#### Function - test_nearest_cusines()
 
 This function helps in validating the functionality of closest cuisines. Here, the list of tuples is sorted based on the cosine similarity scores in descending order. Based on n value, we return the top 'n' cuisines with highest similarity score from the total list of findings. Using assert statement, we check if the retruned outcome is a list with length > 0.
 
@@ -344,7 +344,7 @@ Output - The json formatted string which has the details of predicted cuisine na
 
 10. dumps() from json has been used to convert the dictionaries to json object. 
 
-11. It takes around 6-7 minutes to implement the model and get the result. Hence, I considered to include the Image snapshots of execution.
+11. It takes around 7-10 minutes to implement the model and get the result. Hence, I considered to include the Image snapshots of execution.
 
 
 #### Test Case Run:
